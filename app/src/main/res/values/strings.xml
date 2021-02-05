@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="contentDescription">x</string>
+    <string name="author">AUTHOR</string>
+    <string name="book_name">Booktitle</string>
+    <string name="no_of_reviews">NoOfReviews</string>
+    <string name="no_of_pages">pages</string>
+    <string name="bookImage">BookImage</string>
+    <string name="todo">image</string>
+    <string name="des">des</string>
+</resources>
